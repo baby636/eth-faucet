@@ -32,7 +32,7 @@
     "concurrently": "^5.2.0",
     "envify": "^4.0.0",
     "ethers": "^4.0.47",
-    "ganache-cli": "^6.9.1",
+    "ganache-cli": "^6.12.2",
     "h": "^0.1.0",
     "lavamoat-browserify": "^10.2.1",
     "standard": "^14.3.3",
